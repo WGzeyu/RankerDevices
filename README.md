@@ -206,7 +206,7 @@
 | 99 | nulljoin | Oculus Rift CV1 | 221.3 |
 | 100 | wesley1983 | Valve Index | 219.2 |
 
-# beatleader世界排名
+# BeatLeader世界排名
 | 排名 | 用户名 | 峰值PP | 头显 | 手柄 | 平台 |
 |---|---|---|---|---|---|
 | 1 | udon | 920.4 | Quest 2 | 未知 | Steam |
@@ -215,7 +215,7 @@
 | 4 | Bizzy825 | 900.4 | Rift S | 未知 | Oculus |
 | 5 |  Gladde SilentBang | 925.4 | Rift S | 未知 | Steam |
 | 6 | Aquaflee | 817.2 | Rift S | 未知 | Steam |
-| 7 | ACC %| Sands | 826 | Rift S | 未知 | Steam |
+| 7 | ACC \| Sands | 826 | Rift S | 未知 | Steam |
 | 8 | Reddek | 757.6 | Quest 2 | 未知 | Steam |
 | 9 | ? つ ?_? ?つ | 818.2 | Valve Index | 指虎 | Steam |
 | 10 | Electrostats | 732.7 | Rift S | 未知 | Steam |
@@ -237,18 +237,18 @@
 | 26 | JujuLipz | 689.2 | Rift S | 未知 | Steam |
 | 27 | Marsh | 677.4 | Quest 2 | 未知 | Oculus |
 | 28 | ajmonkey21 | 710.4 | Quest | 未知 | Steam |
-| 29 | ACC %| Sync 💀 | 702.9 | Valve Index | 指虎 | Steam |
+| 29 | ACC \| Sync \uD83D\uDC80 | 702.9 | Valve Index | 指虎 | Steam |
 | 30 | THE LEGIT BOSS | 709.9 | Quest 2 | 未知 | Steam |
-| 31 | #1 in chad 😎 %| oermergeesh | 715.5 | Rift CV1 | 未知 | Oculus |
+| 31 | #1 in chad \uD83D\uDE0E \| oermergeesh | 715.5 | Rift CV1 | 未知 | Oculus |
 | 32 | Ultra V | 677.4 | Valve Index | 指虎 | Steam |
 | 33 | hampter | 688.3 | Quest 2 | Oculus Touch (CV1) | Oculus |
 | 34 | davingarlick | 689.6 | Quest | Oculus Touch 2 (S/Q1) | Steam |
-| 35 | RIZZ NATION %| fartbeef | 686.5 | Quest 2 | 未知 | Oculus |
+| 35 | RIZZ NATION \| fartbeef | 686.5 | Quest 2 | 未知 | Oculus |
 | 36 | louie | 669 | Quest 2 | 未知 | Oculus |
 | 37 | Tranch | 687.3 | Rift CV1 | 未知 | Steam |
 | 38 | Speedy0248 | 685.6 | Rift S | 未知 | Oculus |
 | 39 | SaltyButter  | 687.8 | Quest 2 | 未知 | Steam |
-| 40 | Luck %| Mango my speed bro 🤝 | 678.6 | Rift S | 未知 | Steam |
+| 40 | Luck \| Mango my speed bro \uD83E\uDD1D | 678.6 | Rift S | 未知 | Steam |
 | 41 | Smile | 710.2 | Rift S | 未知 | Oculus |
 | 42 | Chri5p | 661.6 | Quest 2 | 未知 | Steam |
 | 43 | Anam | 666.2 | Rift S | Oculus Touch 2 (S/Q1) | Steam |
@@ -264,7 +264,7 @@
 | 53 | laaazi | 676.8 | Quest 2 | 未知 | Steam |
 | 54 | WDG_Luna | 718.7 | Quest | 未知 | Steam |
 | 55 | colicritter | 686.9 | Quest 2 | Oculus Touch (CV1) | Oculus |
-| 56 | LNA %| {BSTC}jmac//URDS | 671.3 | Quest 2 | 未知 | Steam |
+| 56 | LNA \| {BSTC}jmac//URDS | 671.3 | Quest 2 | 未知 | Steam |
 | 57 | Z?Я? | 659.7 | Quest 2 | 未知 | Steam |
 | 58 | sploob | 643.9 | Quest 2 | 未知 | Steam |
 | 59 | Bakla Ako | 706 | Valve Index | 指虎 | Steam |
@@ -286,16 +286,16 @@
 | 75 | scott daniel wozniak | 674.2 | Rift CV1 | 未知 | Steam |
 | 76 | EJ_ | 675.8 | Rift S | 未知 | Steam |
 | 77 | ejiejidayo | 671.9 | Quest | Quest 2 | Steam |
-| 78 | ACC %| ViSi | 620.9 | Valve Index | 指虎 | Steam |
+| 78 | ACC \| ViSi | 620.9 | Valve Index | 指虎 | Steam |
 | 79 | Smallrat | 644.4 | Rift S | 未知 | Steam |
 | 80 | huge0120 | 685.3 | Quest | 未知 | Steam |
 | 81 | MochiPower123 | 655.4 | Quest 2 | 未知 | Oculus |
 | 82 | Latest | 622.7 | Valve Index | 指虎 | Steam |
 | 83 | Dark Onyx | 634.2 | Quest 2 | 未知 | Steam |
-| 84 | lawgmun🤝 | 652.2 | Quest 2 | Quest 2 | Steam |
+| 84 | lawgmun\uD83E\uDD1D | 652.2 | Quest 2 | Quest 2 | Steam |
 | 85 | ParvTubeHD | 625.5 | Quest 2 | 未知 | Steam |
 | 86 | Flee | 635.5 | Quest 2 | Oculus Touch (CV1) | Oculus |
-| 87 | Rage %| WaifuLuvDesu | 662.2 | Quest 2 | Oculus Touch (CV1) | Oculus |
+| 87 | Rage \| WaifuLuvDesu | 662.2 | Quest 2 | Oculus Touch (CV1) | Oculus |
 | 88 | Stud3nt_Acclete | 625.8 | Quest | 未知 | Steam |
 | 89 | WDG_Beanos | 665.6 | Quest 2 | Quest 2 | Steam |
 | 90 | Mystiqueue | 632.3 | Quest | Oculus Touch 2 (S/Q1) | Steam |
@@ -303,18 +303,18 @@
 | 92 | GF l LNA l lunadesu | 619.4 | Quest | Oculus Touch (CV1) | Oculus |
 | 93 | yabje | 621 | Valve Index | 指虎 | Steam |
 | 94 | A-tach | 656.2 | Rift CV1 | 未知 | Oculus |
-| 95 | Li+ %| 牛奶 | 620.7 | Rift S | 未知 | Steam |
+| 95 | Li+ \| 牛奶 | 620.7 | Rift S | 未知 | Steam |
 | 96 | -VGN-Bandoot | 653.7 | Quest 2 | 未知 | Steam |
-| 97 | Boomer %| RadekTugeza 🥚 | 625.8 | Rift S | 未知 | Steam |
-| 98 | DOGEGE %| Drakonno | 621.3 | Rift S | 未知 | Steam |
+| 97 | Boomer \| RadekTugeza \uD83E\uDD5A | 625.8 | Rift S | 未知 | Steam |
+| 98 | DOGEGE \| Drakonno | 621.3 | Rift S | 未知 | Steam |
 | 99 | Luugydesu | 647.5 | Valve Index | 指虎 | Steam |
 | 100 | mehdis6k9 | 605.1 | Quest 2 | 未知 | Oculus |
 
-# beatleader中国排名
+# BeatLeader中国排名
 | 排名 | 用户名 | 峰值PP | 头显 | 手柄 | 平台 |
 |---|---|---|---|---|---|
-| 1 | ACC %| ViSi | 620.9 | Valve Index | 指虎 | Steam |
-| 2 | Li+ %| 牛奶 | 620.7 | Rift S | 未知 | Steam |
+| 1 | ACC \| ViSi | 620.9 | Valve Index | 指虎 | Steam |
+| 2 | Li+ \| 牛奶 | 620.7 | Rift S | 未知 | Steam |
 | 3 | SL4SH | 605.7 | Rift S | 未知 | Steam |
 | 4 | 🎃 | 569.7 | Rift S | 未知 | Steam |
 | 5 | 布拉斯特格拉斯 | 520.4 | Rift S | Oculus Touch 2 (S/Q1) | Steam |
@@ -327,11 +327,11 @@
 | 12 | 罗拉desu | 503.1 | Valve Index | 指虎 | Steam |
 | 13 | zomman | 522.6 | Quest 2 | Oculus Touch (CV1) | Oculus |
 | 14 | 乾杯君Sennke | 513.4 | Valve Index | 指虎 | Steam |
-| 15 | Li+ %| Fish | 487 | Quest 2 | Quest 2 | Steam |
+| 15 | Li+ \| Fish | 487 | Quest 2 | Quest 2 | Steam |
 | 16 | Lazy Wolf | 485 | Vive | 指虎 | Steam |
 | 17 | 雪炎_yuki | 463.7 | Rift CV1 | Oculus Touch (CV1) | Steam |
 | 18 | awsl | 471 | Quest 2 | Quest 2 | Steam |
-| 19 | Li+ %| Slayer | 462.3 | Valve Index | 指虎 | Steam |
+| 19 | Li+ \| Slayer | 462.3 | Valve Index | 指虎 | Steam |
 | 20 | KaYuri | 465.5 | Rift S | Oculus Touch 2 (S/Q1) | Steam |
 | 21 | wangyufy | 469.4 | Valve Index | 指虎 | Steam |
 | 22 | Smallerfox | 566.9 | Valve Index | 指虎 | Steam |
@@ -339,14 +339,14 @@
 | 24 | dengyaotriangle | 460.1 | Valve Index | 指虎 | Steam |
 | 25 | staryouh | 507.7 | Quest | Oculus Touch 2 (S/Q1) | Steam |
 | 26 | 协议四 猎杀嘉心糖 | 445.1 | Valve Index | 指虎 | Steam |
-| 27 | Li+ %| Sanae | 462.2 | Rift S | Oculus Touch 2 (S/Q1) | Steam |
+| 27 | Li+ \| Sanae | 462.2 | Rift S | Oculus Touch 2 (S/Q1) | Steam |
 | 28 | 🌻SunFLV | 453.2 | Valve Index | 指虎 | Steam |
 | 29 | SL9SH | 470.2 | Valve Index | 指虎 | Steam |
 | 30 | BurningFlame | 442.5 | Quest 2 | 未知 | Steam |
 | 31 | sanxi | 433.7 | Rift S | 未知 | Steam |
 | 32 | Tuc | 423.5 | Rift S | Oculus Touch 2 (S/Q1) | Steam |
 | 33 | 宣亦还钱了 | 517 | Rift S | 未知 | Steam |
-| 34 | Li+%|Meimo | 432 | Quest 2 | 未知 | Steam |
+| 34 | Li+\|Meimo | 432 | Quest 2 | 未知 | Steam |
 | 35 | Arakui Yi | 423.7 | Valve Index | 指虎 | Steam |
 | 36 | 落花泪 | 411.9 | Valve Index | 指虎 | Steam |
 | 37 | Baka | 461.9 | Quest 2 | Quest 2 | Steam |
@@ -365,11 +365,11 @@
 | 50 | 和泉 さぎり | 364.3 | Quest 2 | 未知 | Steam |
 | 51 | Free Bird | 359.6 | Valve Index | 指虎 | Steam |
 | 52 | ACupOfChino | 349.9 | Quest 2 | 未知 | Steam |
-| 53 | Li+ %| di_zhen | 471.3 | Quest 2 | 未知 | Steam |
+| 53 | Li+ \| di_zhen | 471.3 | Quest 2 | 未知 | Steam |
 | 54 | 甩尾の嘉玥 | 393.7 | Valve Index | 指虎 | Steam |
 | 55 | 万毒不侵 | 357.9 | Rift S | 未知 | Steam |
 | 56 | 楓苓MapleRin | 374.7 | Quest 2 | Quest 2 | Steam |
-| 57 | WGzeyu %| 打分新手群941873202 | 400.7 | Rift CV1 | Oculus Touch (CV1) | Steam |
+| 57 | WGzeyu \| 打分新手群941873202 | 400.7 | Rift CV1 | Oculus Touch (CV1) | Steam |
 | 58 | Mlvi | 334.5 | Quest 2 | 未知 | Steam |
 | 59 | MZTRB | 322.9 | Valve Index | 指虎 | Steam |
 | 60 | [CN]Mirroon_QAQ绝赞摸鱼中 | 381.7 | Quest 2 | 未知 | Steam |
