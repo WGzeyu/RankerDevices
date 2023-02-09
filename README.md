@@ -237,9 +237,9 @@
 | 26 | JujuLipz | 689.2 | Rift S |  | Steam |
 | 27 | Marsh | 677.4 | Quest 2 |  | Oculus |
 | 28 | ajmonkey21 | 710.4 | Quest |  | Steam |
-| 29 | ACC \| Sync \uD83D\uDC80 | 702.9 | Valve Index | 指虎 | Steam |
+| 29 | ACC \| Sync 💀 | 702.9 | Valve Index | 指虎 | Steam |
 | 30 | THE LEGIT BOSS | 709.9 | Quest 2 |  | Steam |
-| 31 | #1 in chad \uD83D\uDE0E \| oermergeesh | 715.5 | Rift CV1 |  | Oculus |
+| 31 | #1 in chad 😎 \| oermergeesh | 715.5 | Rift CV1 |  | Oculus |
 | 32 | Ultra V | 677.4 | Valve Index | 指虎 | Steam |
 | 33 | hampter | 688.3 | Quest 2 | Oculus Touch  | Oculus |
 | 34 | davingarlick | 689.6 | Quest | Oculus Touch 2  | Steam |
@@ -248,7 +248,7 @@
 | 37 | Tranch | 687.3 | Rift CV1 |  | Steam |
 | 38 | Speedy0248 | 685.6 | Rift S |  | Oculus |
 | 39 | SaltyButter  | 687.8 | Quest 2 |  | Steam |
-| 40 | Luck \| Mango my speed bro \uD83E\uDD1D | 678.6 | Rift S |  | Steam |
+| 40 | Luck \| Mango my speed bro 🤝 | 678.6 | Rift S |  | Steam |
 | 41 | Smile | 710.2 | Rift S |  | Oculus |
 | 42 | Chri5p | 661.6 | Quest 2 |  | Steam |
 | 43 | Anam | 666.2 | Rift S | Oculus Touch 2  | Steam |
@@ -292,7 +292,7 @@
 | 81 | MochiPower123 | 655.4 | Quest 2 |  | Oculus |
 | 82 | Latest | 622.7 | Valve Index | 指虎 | Steam |
 | 83 | Dark Onyx | 634.2 | Quest 2 |  | Steam |
-| 84 | lawgmun\uD83E\uDD1D | 652.2 | Quest 2 | Quest 2 | Steam |
+| 84 | lawgmun🤝 | 652.2 | Quest 2 | Quest 2 | Steam |
 | 85 | ParvTubeHD | 625.5 | Quest 2 |  | Steam |
 | 86 | Flee | 635.5 | Quest 2 | Oculus Touch  | Oculus |
 | 87 | Rage \| WaifuLuvDesu | 662.2 | Quest 2 | Oculus Touch  | Oculus |
@@ -305,7 +305,7 @@
 | 94 | A-tach | 656.2 | Rift CV1 |  | Oculus |
 | 95 | Li+ \| 牛奶 | 620.7 | Rift S |  | Steam |
 | 96 | -VGN-Bandoot | 653.7 | Quest 2 |  | Steam |
-| 97 | Boomer \| RadekTugeza \uD83E\uDD5A | 625.8 | Rift S |  | Steam |
+| 97 | Boomer \| RadekTugeza 🥚 | 625.8 | Rift S |  | Steam |
 | 98 | DOGEGE \| Drakonno | 621.3 | Rift S |  | Steam |
 | 99 | Luugydesu | 647.5 | Valve Index | 指虎 | Steam |
 | 100 | mehdis6k9 | 605.1 | Quest 2 |  | Oculus |
